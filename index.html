@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+
+  <link rel="stylesheet" href="index.css" />
+  <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+  <script>
+    window.formbutton =
+      window.formbutton ||
+      function () {
+        (formbutton.q = formbutton.q || []).push(arguments);
+      };
+    formbutton("create", {
+      action: "https://formspree.io/f/moqggwrn",
+      title: "How can we help?",
+      fields: [
+        {
+          type: "email",
+          label: "Email:",
+          name: "email",
+          required: true,
+          placeholder: "your@email.com",
+        },
+        {
+          type: "textarea",
+          label: "Message:",
+          name: "message",
+          placeholder: "What's on your mind?",
+        },
+        { type: "submit" },
+      ],
+      styles: {
+        title: {
+          backgroundColor: "gray",
+        },
+        button: {
+          backgroundColor: "gray",
+        },
+      },
+    });
+  </script>
+</head>
+
+<body>
+  <section class="navigation">
+    <h1 class="logo">LOGO</h1>
+
+    <div class="navlinks">
+      <a href="">Home</a>
+      <a href="./about.html">About</a>
+      <a href="">services</a>
+      <a href="">Contact us</a>
+      <button>Sign Up</button>
+    </div>
+  </section>
+
+  <section class="hero">
+    <img
+      src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      alt="Hero Image" />
+    <div class="hero-content">
+      <h1>Malcolm Tours and Travels</h1>
+      <p>Fulfilling Clients Needs</p>
+      <button>Call Now</button>
+    </div>
+  </section>
+
+  <section class="search">
+    <input type="search" placeholder="Search Places" name="" id="">
+    <button>Search Place</button>
+
+  </section>
+
+  <section class="destination">
+    <h1>Top Destination</h1>
+
+    <div class="row">
+      <div class="column">
+        <img
+          src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          alt="">
+        <img
+          src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          alt="">
+      </div>
+      <div class="column">
+        <img
+          src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          alt="">
+        <img
+          src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          alt="">
+      </div>
+      <div class="column">
+        <img
+          src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          alt="">
+        <img
+          src="https://images.pexels.com/photos/4577735/pexels-photo-4577735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          alt="">
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>
