@@ -44,3 +44,18 @@
   .hero-content-about button:hover {
     background-color: #a52fa5;
   }
+  .mission{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    margin-top: 4rem;
+  }
+  .reject{
+    background-color: #050e31;
+    width: 25%;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+  }
