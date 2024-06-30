@@ -60,10 +60,14 @@
     text-align: center;
   }
 
-  #our-team {
+  .our-team {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    /* width: auto; */
+    background-color: red;
 }
 
 .team-member {
