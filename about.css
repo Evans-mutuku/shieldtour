@@ -66,10 +66,15 @@
     justify-content: space-between;
     width: 70%;
     margin: auto;
-    /* width: auto; */
-    background-color: red;
 }
 
+.team-title{
+  text-align: center;
+  margin: 2rem;
+  color: white;
+  font-size: 2rem;
+  margin-top: 3rem;
+}
 .team-member {
     background-color: white;
     border: 1px solid #ddd;
