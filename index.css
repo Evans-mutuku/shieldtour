@@ -14,7 +14,8 @@ body {
   }
   
   .logo {
-    color: #850885;
+    color: white;
+    text-decoration: none;
   }
   
   .navlinks {
