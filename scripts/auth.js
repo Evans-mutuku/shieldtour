@@ -9,13 +9,13 @@ import {
 // import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-analytics.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA8bdYqPRn0WVUkAVS9priyk9sGWNhqMe0",
-  authDomain: "tourism-9d170.firebaseapp.com",
-  projectId: "tourism-9d170",
-  storageBucket: "tourism-9d170.appspot.com",
-  messagingSenderId: "73424710523",
-  appId: "1:73424710523:web:491a708678df8f13752bde",
-  measurementId: "G-M3NLMQS26W",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 const app = initializeApp(firebaseConfig);
