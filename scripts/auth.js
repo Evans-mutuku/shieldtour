@@ -8,15 +8,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-auth.js";
 // import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-analytics.js";
 
-const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: "",
-};
+const firebaseConfig = {};
 
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
