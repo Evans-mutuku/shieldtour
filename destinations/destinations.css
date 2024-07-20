@@ -62,3 +62,66 @@
 .btn:hover {
     background-color: #005959;
 }
+
+
+/* Booking page styles */
+.booking-page {
+    max-width: 600px;
+    margin: 2em auto;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.booking-page h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.booking-page p {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 1.5em;
+}
+
+.booking-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.booking-form label {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    color: #333;
+}
+
+.booking-form input,
+.booking-form select,
+.booking-form textarea {
+    padding: 1em;
+    margin-bottom: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.booking-form button {
+    align-self: flex-start;
+}
+
+.back-btn {
+    background-color: #ccc;
+    color: #333;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 1em;
+}
+
+.back-btn:hover {
+    background-color: #aaa;
+}
