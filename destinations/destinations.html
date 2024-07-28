@@ -1,81 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../index.css" />
+    <link rel="stylesheet" href="./destinations.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css"
+    />
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../index.css">
-    <link rel="stylesheet" href="./destinations.css">
     <script src="destination.js"></script>
+
     <title>All Destinations</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <section class="navigation">
-        <a href="../index.html" class="">
-            <h1 class="logo">LOGO</h1>
-        </a>
+      <a href="../index.html" class="">
+        <h1 class="logo">LOGO</h1>
+      </a>
 
-        <div class="navlinks">
-            <a href="../index.html">Home</a>
-            <a href="../about.html">About</a>
-            <a href="">Contact us</a>
-            <a href="../signup.html">Sign Up</a>
-        </div>
+      <div class="navlinks">
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
+        <a href="">Contact us</a>
+        <a href="../signup.html">Sign Up</a>
+      </div>
     </section>
 
     <section id="places" class="places">
-        <h2 class="section-title">Tourism Places</h2>
-        <div class="place-cards">
-            <div class="card" data-place="Maldives"
-                data-description="A beautiful place to visit with stunning landscapes and rich culture.">
-                <img src="https://assets.cntraveller.in/photos/624d4fa470dfbaa2826f0b8a/master/pass/Maldives-experiences-april-lead.jpg"
-                    alt="Place 1" class="card-img">
-                <div class="card-content">
-                    <h3 class="card-title">Maldives</h3>
-                    <p class="card-description">A beautiful place to visit with stunning landscapes and rich culture.
-                    </p>
-                    <button class="btn book-now">Book Now</button>
-                </div>
-            </div>
-            <div class="card" data-place="Malindi">
-                <img src="https://www.luxurylifestylemag.co.uk/wp-content/uploads/2022/12/bigstock-Maldives-Island-Sunset-Water-362687317.jpg"
-                    alt="Place 2" class="card-img">
-                <div class="card-content">
-                    <h3 class="card-title">Malindi</h3>
-                    <p class="card-description">Explore the vibrant city life and historical landmarks.</p>
-                    <button class="btn book-now">Book Now</button>
-                </div>
-            </div>
-            <div class="card" data-place="South Africa">
-                <img src="https://kenyanwallstreet.com/wp-content/uploads/2020/06/ttttt-1280x720-1.jpg" alt="Place 3"
-                    class="card-img">
-                <div class="card-content">
-                    <h3 class="card-title">South Africa</h3>
-                    <p class="card-description">Relax on the pristine beaches and enjoy the tropical paradise.</p>
-                    <button class="btn book-now">Book Now</button>
-                </div>
-            </div>
-            <div class="card" data-place="Ndiani, Mombasa">
-                <img src="https://www.luxurylifestylemag.co.uk/wp-content/uploads/2022/12/bigstock-Maldives-Island-Sunset-Water-362687317.jpg"
-                    alt="Place 2" class="card-img">
-                <div class="card-content">
-                    <h3 class="card-title">Ndiani, Mombasa</h3>
-                    <p class="card-description">Explore the vibrant city life and historical landmarks.</p>
-                    <button class="btn book-now">Book Now</button>
-                </div>
-            </div>
-            <div class="card" data-place="Tsavo National Park">
-                <img src="https://kenyanwallstreet.com/wp-content/uploads/2020/06/ttttt-1280x720-1.jpg" alt="Place 3"
-                    class="card-img">
-                <div class="card-content">
-                    <h3 class="card-title">Tsavo National Park</h3>
-                    <p class="card-description">Relax on the pristine beaches and enjoy the tropical paradise.</p>
-                    <button class="btn book-now">Book Now</button>
-                </div>
-            </div>
+      <h2 class="section-title">Tourism Places</h2>
+      <div class="place-cards">
+        <div
+          class="card"
+          data-place="Maldives"
+          data-description="A beautiful place to visit with stunning landscapes and rich culture."
+        >
+          <img
+            src="https://assets.cntraveller.in/photos/624d4fa470dfbaa2826f0b8a/master/pass/Maldives-experiences-april-lead.jpg"
+            alt="Place 1"
+            class="card-img"
+          />
+          <div class="card-content">
+            <h3 class="card-title">Maldives</h3>
+            <p class="card-description">
+              A beautiful place to visit with stunning landscapes and rich
+              culture.
+            </p>
+            <button class="btn book-now">Book Now</button>
+          </div>
         </div>
+        <div class="card" data-place="Malindi">
+          <img
+            src="https://www.luxurylifestylemag.co.uk/wp-content/uploads/2022/12/bigstock-Maldives-Island-Sunset-Water-362687317.jpg"
+            alt="Place 2"
+            class="card-img"
+          />
+          <div class="card-content">
+            <h3 class="card-title">Malindi</h3>
+            <p class="card-description">
+              Explore the vibrant city life and historical landmarks.
+            </p>
+            <button class="btn book-now">Book Now</button>
+          </div>
+        </div>
+        <div class="card" data-place="South Africa">
+          <img
+            src="https://kenyanwallstreet.com/wp-content/uploads/2020/06/ttttt-1280x720-1.jpg"
+            alt="Place 3"
+            class="card-img"
+          />
+          <div class="card-content">
+            <h3 class="card-title">South Africa</h3>
+            <p class="card-description">
+              Relax on the pristine beaches and enjoy the tropical paradise.
+            </p>
+            <button class="btn book-now">Book Now</button>
+          </div>
+        </div>
+        <div class="card" data-place="Ndiani, Mombasa">
+          <img
+            src="https://www.luxurylifestylemag.co.uk/wp-content/uploads/2022/12/bigstock-Maldives-Island-Sunset-Water-362687317.jpg"
+            alt="Place 2"
+            class="card-img"
+          />
+          <div class="card-content">
+            <h3 class="card-title">Ndiani, Mombasa</h3>
+            <p class="card-description">
+              Explore the vibrant city life and historical landmarks.
+            </p>
+            <button class="btn book-now">Book Now</button>
+          </div>
+        </div>
+        <div class="card" data-place="Tsavo National Park">
+          <img
+            src="https://kenyanwallstreet.com/wp-content/uploads/2020/06/ttttt-1280x720-1.jpg"
+            alt="Place 3"
+            class="card-img"
+          />
+          <div class="card-content">
+            <h3 class="card-title">Tsavo National Park</h3>
+            <p class="card-description">
+              Relax on the pristine beaches and enjoy the tropical paradise.
+            </p>
+            <button class="btn book-now">Book Now</button>
+          </div>
+        </div>
+      </div>
     </section>
-</body>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/intasend-inlinejs-sdk@3.0.4/build/intasend-inline.js"></script>
+  </body>
 </html>
