@@ -21,3 +21,5 @@ Added a navigation link to help users easily explore different sections of the w
 Included a captivating hero section image to highlight the beauty of Kenya and grab visitors' attention.
 ### Formspree Integration: 
 Integrated Formspree to enable a chatbot-like section where users can query the administrator for answers.
+
+How to clone this repo
