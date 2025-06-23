@@ -25,5 +25,5 @@ Integrated Formspree to enable a chatbot-like section where users can query the 
 How to clone this repo
 
 ```bash
-git clone
+git clone https://github.com/Evans-mutuku/shieldtour.git
 ```
