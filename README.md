@@ -11,7 +11,7 @@ Seamlessly book your entire trip with our user-friendly online platform, includi
 ### E-commerce ️✈️
 Purchase authentic Kenyan souvenirs and merchandise directly from our website, delivered straight to your doorstep!
 
-### Interactive ️
+### Interactive ️✈️
 Engage with our interactive map to discover hidden gems and personalize your itinerary.
 
 ## Current Progress ✈️
