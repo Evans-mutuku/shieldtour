@@ -8,7 +8,7 @@ Embark on a virtual journey through Kenya's stunning landscapes, vibrant culture
 ### Trip Booking  ✈️
 Seamlessly book your entire trip with our user-friendly online platform, including flights, accommodations, and tours.
 
-### E-commerce ️
+### E-commerce ️✈️
 Purchase authentic Kenyan souvenirs and merchandise directly from our website, delivered straight to your doorstep!
 
 ### Interactive ️
