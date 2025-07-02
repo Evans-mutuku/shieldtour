@@ -5,7 +5,7 @@ Welcome to the GitHub repository for Hakuna Matata Tourism! This website is desi
 Explore Kenya
 Embark on a virtual journey through Kenya's stunning landscapes, vibrant cultures, and diverse wildlife.
 
-### Trip Booking ✈️
+### Trip Booking 
 Seamlessly book your entire trip with our user-friendly online platform, including flights, accommodations, and tours.
 
 ### E-commerce ️
