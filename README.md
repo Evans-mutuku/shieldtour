@@ -14,7 +14,7 @@ Purchase authentic Kenyan souvenirs and merchandise directly from our website, d
 ### Interactive ️✈️
 Engage with our interactive map to discover hidden gems and personalize your itinerary.
 
-## Current Progress ✈️
+## Current Progress
 ### Navigation Link: 
 Added a navigation link to help users easily explore different sections of the website.
 ### Hero Section Image: 
