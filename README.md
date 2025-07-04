@@ -1,7 +1,7 @@
 ## SHIELD Tourism Development Program Code Base ✈️
 Welcome to the GitHub repository for Hakuna Matata Tourism! This website is designed to showcase the beauty of Kenya and allow visitors to book their dream vacation directly online!
 
-### Features (To be Built) ✈️
+### Features (To Be Built) ✈️
 Explore Kenya
 Embark on a virtual journey through Kenya's stunning landscapes, vibrant cultures, and diverse wildlife.
 
@@ -11,7 +11,7 @@ Seamlessly book your entire trip with our user-friendly online platform, includi
 ### E-commerce
 Purchase authentic Kenyan souvenirs and merchandise directly from our website, delivered straight to your doorstep!
 
-### Interactive ️✈️
+### Interactive
 Engage with our interactive map to discover hidden gems and personalize your itinerary.
 
 ## Current Progress
