@@ -28,4 +28,4 @@ How to clone this repo
 git clone https://github.com/Evans-mutuku/shieldtour.git
 ```
 
-### Happy Coding! ✈️
+### Happy Coding 2025! ✈️
